@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
- Mastroianni Oliveira! Um estudante que gosta de segurança cibernética e pericia forense.
+ Olá 👋, eu sou Mastroianni Oliveira! Um estudante que gosta de segurança cibernética e pericia forense.
 
   - 🌱 Mestrando em Pós-graduação em Ciencia da Computação
   - Além disso, sou professor, palestrante e pesquisador
