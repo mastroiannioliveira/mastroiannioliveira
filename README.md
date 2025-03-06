@@ -27,14 +27,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/)
 
-
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=mastroiannioliveira&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastroiannioliveira)](https://github.com/mastroiannioliveira/github-readme-stats)
 
-
-<!-- Portfolio -->
-## PORTIFOLIO
+<!-- Portfólio -->
+## Portfólio
 - [Scannexus software de scaneamento de redes locais](https://github.com/mastroiannioliveira/scannexus)
 
 <!-- GIF -->
