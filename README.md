@@ -31,6 +31,9 @@
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=mastroiannioliveira&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastroiannioliveira)](https://github.com/mastroiannioliveira/github-readme-stats)
 
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+
 <!-- Portfólio -->
 ## Portfólio
 - [Scannexus software de scaneamento de redes locais](https://github.com/mastroiannioliveira/scannexus)
