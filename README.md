@@ -31,9 +31,13 @@
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=mastroiannioliveira&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastroiannioliveira)](https://github.com/mastroiannioliveira/github-readme-stats)
 
- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mastroiannioliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mastroiannioliveira" height="30" width="40" /></a>
+<a href="https://instagram.com/mastroiannioliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mastroiannioliveira" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@peritomastroiannioliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@peritomastroiannioliveira" height="30" width="40" /></a>
+</p>
           
-
 <!-- Portfólio -->
 ## Portfólio
 - [Scannexus software de scaneamento de redes locais](https://github.com/mastroiannioliveira/scannexus)
