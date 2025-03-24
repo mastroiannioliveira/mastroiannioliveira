@@ -34,7 +34,7 @@
           
 <!-- Portfólio -->
 ## Portfólio
-- [Scannexus software de scaneamento de redes locais](https://github.com/mastroiannioliveira/scannexus)
+- 
 
 <!-- GIF -->
 <p align="left">
