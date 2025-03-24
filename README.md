@@ -34,7 +34,7 @@
           
 <!-- Portfólio -->
 ## Portfólio
-- [Winsecurescan - Ferramenta de auditoria](https://github.com/mastroiannioliveira/WinSecureScan/)
+- [WinSecureScan - Ferramenta de auditoria](https://github.com/mastroiannioliveira/WinSecureScan/)
 
 <!-- GIF -->
 <p align="left">
