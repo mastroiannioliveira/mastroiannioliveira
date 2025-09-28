@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 Sobre mim </summary>
 
-  - 💬 Especialista em Cibersegurança com mais de 10 anos de experiência em Perícia Digital, Prevenção e Investigação de Crimes Cibernéticos.
+  - 💬 Especialista em Cibersegurança com mais de 15 anos de experiência em Perícia Digital, Prevenção e Investigação de Crimes Cibernéticos.
 
 </details>
 
