@@ -65,7 +65,7 @@
     <img align="center" alt="Jupyter" height="40" width="40" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white">
   </div>
   
-  <!-- Skills: Libraries -->
+<!-- Skills: Libraries -->
   <div style="flex-basis: 48%;">
     <h3>Libraries</h3>
       <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
@@ -74,4 +74,19 @@
 
 
 
+
+## 🛠️ Ferramenta de análise de pacotes de rede
+
+O repositório agora inclui uma ferramenta em Python para análise rápida de arquivos PCAP sem dependências externas. Ela gera um resumo textual das principais métricas (protocolos, IPs, portas e conversas) e pode exportar os dados em JSON.
+
+### Como usar
+
+1. Certifique-se de ter o Python 3.8+ instalado.
+2. Execute o script apontando para um arquivo `.pcap`:
+   ```bash
+   python packet_analyzer.py exemplo.pcap --top 10 --json resumo.json
+   ```
+3. O relatório textual será exibido no terminal e, opcionalmente, salvo em JSON.
+
+Para mais detalhes, confira os módulos em `pcap_analyzer/`.
 
